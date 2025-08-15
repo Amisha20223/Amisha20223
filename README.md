@@ -1,21 +1,21 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2c3a2k0MXd1NmU1Z2Zrc2pvNXNsb3ljdWoyY3Q5eG9kd3Q0MmU5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
   <div>
-    <img src="https://img.shields.io/badge/✨-Open%20To%20Work-brightgreen?style=for-the-badge" alt="Open To Work Badge"/>
+    <img src="https://img.shields.io/badge/✨-Open%20To%20Work-0077B5?style=for-the-badge" alt="Open To Work Badge"/>
   </div>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amisha-singh-69a790230/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
   <a href="https://leetcode.com/u/amisha1823/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 
   <a href="https://www.naukri.com/code360/profile/78f20e90-8a48-453a-a977-8b27a5ac0c85">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas-9B59B6?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas Badge"/>
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-4682B4?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas Badge"/>
   </a>
 </div>
 
@@ -31,8 +31,7 @@
 </div>
 
 <div align="center">
-  <!-- Updated typing animation to reflect full stack developer status -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+NextJS+%7C+Node.js;Frontend+%2B+Backend+Expert;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+NextJS+%7C+Node.js;Frontend+%2B+Backend+Expert;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ---
@@ -41,20 +40,18 @@
 
 <div align="center">
   <a href="mailto:amisha.2125ec1132@kiet.edu">
-    <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Contact%20Me-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://d8it4huxumps7.cloudfront.net/uploads/profileData/files/30889909/amisharajput977_67d15818117e3.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
 
-<!-- Updated description to reflect graduated status -->
 I'm a **graduated Full Stack Developer** currently available for work and looking for exciting opportunities in web development. Let's build something amazing together!
 
 ---
 
 ### 👩‍💻 About Me:
-<!-- Updated professional status from aspiring to graduated full stack developer -->
 I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🎓 **Recently graduated** ECE undergraduate with expertise in full-stack web development.
@@ -64,7 +61,7 @@ I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/medi
 - 🚀 Open to collaborate on interesting projects and opportunities.
 - 💼 Actively seeking full-time positions in **full-stack development**.
 
-📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:amisha.2125ec1132@kiet.edu)
+📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Email-0077B5?style=flat&logo=gmail&logoColor=white)](mailto:amisha.2125ec1132@kiet.edu)
 
 ---
 
@@ -91,12 +88,11 @@ I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/medi
 
 ### 🚀 Featured Projects:
 
-<!-- Enhanced projects section with colorful cards and better visibility -->
 <div align="center">
 
 | 🛍️ **E-commerce Website** | 💼 **Portfolio Website** |
 |:---:|:---:|
-| ![E-commerce](https://img.shields.io/badge/🚀-Live%20Project-success?style=for-the-badge) | ![Portfolio](https://img.shields.io/badge/🌟-Featured-orange?style=for-the-badge) |
+| ![E-commerce](https://img.shields.io/badge/🚀-Live%20Project-0077B5?style=for-the-badge) | ![Portfolio](https://img.shields.io/badge/🌟-Featured-1E90FF?style=for-the-badge) |
 | A responsive e-commerce platform with modern UI | Personal portfolio showcasing projects and skills |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
@@ -106,9 +102,9 @@ I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/medi
   
 ### 🎯 **More Projects Coming Soon!**
   
-<img src="https://img.shields.io/badge/🔥-Building%20Amazing%20Things-FF6B6B?style=for-the-badge&logoColor=white" alt="Building Badge"/>
-<img src="https://img.shields.io/badge/💡-Full%20Stack%20Focus-4ECDC4?style=for-the-badge&logoColor=white" alt="Full Stack Badge"/>
-<img src="https://img.shields.io/badge/⚡-React%20%7C%20Node.js-FFE66D?style=for-the-badge&logoColor=black" alt="Tech Stack Badge"/>
+<img src="https://img.shields.io/badge/🔥-Building%20Amazing%20Things-0077B5?style=for-the-badge&logoColor=white" alt="Building Badge"/>
+<img src="https://img.shields.io/badge/💡-Full%20Stack%20Focus-1E90FF?style=for-the-badge&logoColor=white" alt="Full Stack Badge"/>
+<img src="https://img.shields.io/badge/⚡-React%20%7C%20Node.js-4682B4?style=for-the-badge&logoColor=white" alt="Tech Stack Badge"/>
 
 </div>
 
@@ -140,40 +136,39 @@ I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/medi
 
 <div align="center">
   <a href="mailto:amisharajput977@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/amisha-singh-69a790230/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/amisha20223">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-4682B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
 
 ---
 
-<!-- Consolidated all GitHub stats into one professional section, removed duplicates -->
 ### 📊 GitHub Stats & Daily Contributions:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=algolia&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=react-dark&area=true&hide_border=true&custom_title=Daily%20Commit%20Activity&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Daily Commit Activity" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=github-compact&area=true&hide_border=true&custom_title=Daily%20Commit%20Activity&bg_color=0D1117&color=0077B5&line=1E90FF&point=FFFFFF" alt="Daily Commit Activity" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=amisha20223&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=F75C7E&sideNums=38B2AC&sideLabels=F75C7E&currStreakNum=38B2AC&currStreakLabel=F75C7E&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=amisha20223&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&fire=0077B5&sideNums=1E90FF&sideLabels=0077B5&currStreakNum=1E90FF&currStreakLabel=0077B5&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/F75C7E/amisha20223" alt="GitHub Contribution Chart" width="100%"/>
+  <img src="https://ghchart.rshah.org/0077B5/amisha20223" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&title_color=0077B5&icon_color=1E90FF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=1800&title_color=0077B5&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="48%"/>
 </div>
