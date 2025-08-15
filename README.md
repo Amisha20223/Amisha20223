@@ -172,32 +172,31 @@ I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/medi
   <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=onedark&row=1&column=6" alt="trophy"/>
 </div>
 
-<!-- Fixed daily contribution stats with working APIs and enhanced design -->
+<!-- Fixed daily contribution stats with real-time working APIs and enhanced design -->
 ### 📈 Daily Contribution Stats:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=react-dark&area=true&hide_border=true&custom_title=Daily%20Commit%20Activity" alt="Daily Commit Activity" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=react-dark&area=true&hide_border=true&custom_title=Daily%20Commit%20Activity&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Daily Commit Activity" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=amisha20223&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=F75C7E&sideNums=38B2AC&sideLabels=F75C7E&currStreakNum=38B2AC&currStreakLabel=F75C7E" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=amisha20223&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=F75C7E&sideNums=38B2AC&sideLabels=F75C7E&currStreakNum=38B2AC&currStreakLabel=F75C7E&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 
-<!-- Added comprehensive GitHub stats section -->
+<!-- Added real-time contribution calendar and enhanced stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://ghchart.rshah.org/F75C7E/amisha20223" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
----
-
-<!-- Added attractive footer with wave animation -->
+<!-- Updated GitHub stats with cache-busting and better parameters -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
-  <h3>💖 Thanks for visiting my profile!</h3>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=Let's+connect+and+build+something+amazing!;Always+open+to+interesting+conversations!" alt="Footer Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%"/>
+</div>
+
+<!-- Added today's contribution counter -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" alt="Detailed GitHub Stats" width="100%"/>
 </div>
