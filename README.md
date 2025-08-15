@@ -143,12 +143,11 @@ I am an aspiring Front-end Developer <img src="https://media.giphy.com/media/WUl
   <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=onedark&row=1&column=6" alt="trophy"/>
 </div>
 
+<!-- ✅ Updated Daily Commit Activity Section -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=react-dark" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=react-dark&area=true&hide_border=true&custom_title=Daily%20Commit%20Activity" alt="Daily Commit Activity" width="100%"/>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=amisha20223&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=F75C7E&sideNums=38B2AC&sideLabels=F75C7E&currStreakNum=38B2AC&currStreakLabel=F75C7E" alt="GitHub Streak"/>
+  </a>
 </div>
-
-
-
-
-
-
