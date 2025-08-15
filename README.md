@@ -89,22 +89,6 @@ I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/medi
 
 ---
 
-### 📊 My GitHub Stats:
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=amisha20223&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/amisha20223/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
 ### 🚀 Featured Projects:
 
 <!-- Enhanced projects section with colorful cards and better visibility -->
@@ -168,12 +152,12 @@ I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/medi
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=onedark&row=1&column=6" alt="trophy"/>
-</div>
+<!-- Consolidated all GitHub stats into one professional section, removed duplicates -->
+### 📊 GitHub Stats & Daily Contributions:
 
-<!-- Fixed daily contribution stats with real-time working APIs and enhanced design -->
-### 📈 Daily Contribution Stats:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=react-dark&area=true&hide_border=true&custom_title=Daily%20Commit%20Activity&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Daily Commit Activity" width="100%"/>
@@ -185,18 +169,11 @@ I am a **Graduated Full Stack Developer** <img src="https://media.giphy.com/medi
   </a>
 </div>
 
-<!-- Added real-time contribution calendar and enhanced stats -->
 <div align="center">
   <img src="https://ghchart.rshah.org/F75C7E/amisha20223" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
-<!-- Updated GitHub stats with cache-busting and better parameters -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%"/>
-</div>
-
-<!-- Added today's contribution counter -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" alt="Detailed GitHub Stats" width="100%"/>
 </div>
