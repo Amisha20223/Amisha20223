@@ -1,153 +1,138 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2c3a2k0MXd1NmU1Z2Zrc2pvNXNsb3ljdWoyY3Q5eG9kd3Q0MmU5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
-  <div>
-    <img src="https://img.shields.io/badge/✨-Open%20To%20Work-brightgreen?style=for-the-badge" alt="Open To Work Badge"/>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amisha%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/amisha-singh-69a790230/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🎓+Graduated+Full+Stack+Developer;🚀+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;💡+Building+Amazing+Web+Experiences;🌟+Open+to+New+Opportunities" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✨-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for Hire"/>
+  <img src="https://img.shields.io/badge/🎓-Full%20Stack%20Developer-blue?style=for-the-badge" alt="Full Stack Developer"/>
+  <img src="https://komarev.com/ghpvc/?username=amisha20223&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+\`\`\`typescript
+const amisha = {
+    name: "Amisha Singh",
+    title: "Full Stack Developer",
+    education: "B.Tech ECE Graduate",
+    location: "India 🇮🇳",
+    
+    currentFocus: [
+        "Building scalable web applications",
+        "Learning cloud technologies",
+        "Contributing to open source"
+    ],
+    
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+        tools: ["Git", "AWS", "Firebase", "Figma"],
+        currentlyLearning: ["Docker", "Kubernetes", "GraphQL"]
+    },
+    
+    goals: {
+        2025: "Land a full-time role as Full Stack Developer",
+        longTerm: "Become a tech lead and mentor others"
+    }
+};
+\`\`\`
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,materialui,figma" />
+
+### Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,aws" />
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,vscode,unity,wordpress,java" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFF"/>
+</div>
+
+### 🔥 Contribution Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amisha20223&theme=tokyonight&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakNum=FFF&sideNums=FFF&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=FFF" alt="GitHub Streak"/>
+</div>
+
+### 📈 Daily Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&custom_title=Daily%20Contribution%20Activity&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/amisha20223/ecommerce-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amisha20223&repo=ecommerce-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFF" />
+</a>
+
+<a href="https://github.com/amisha20223/portfolio-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amisha20223&repo=portfolio-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFF" />
+</a>
+
+</div>
+
+---
+
+## 💼 Professional Experience & Education
+
+<div align="center">
+
+| 🎓 **Education** | 🏢 **Experience** |
+|:---:|:---:|
+| **B.Tech in ECE** | **Full Stack Developer** |
+| KIET Group of Institutions | Graduated & Ready to Work |
+| *Specialized in Web Development* | *React • Node.js • TypeScript* |
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
   
-  <a href="https://leetcode.com/u/amisha1823/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
+### 💻 This Week's Development Breakdown
 
-  <a href="https://www.naukri.com/code360/profile/78f20e90-8a48-453a-a977-8b27a5ac0c85">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas-9B59B6?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas Badge"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=surabhi-agnihotri&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div align="center">
-  <h1>
-    Hey there, I'm Amisha!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-end+Developer;React+%7C+NextJS+%7C+TypeScript;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
----
-
-## 🔥 Hire Me! 🔥
-
-<div align="center">
-  <a href="mailto:amisha.2125ec1132@kiet.edu">
-    <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://d8it4huxumps7.cloudfront.net/uploads/profileData/files/30889909/amisharajput977_67d15818117e3.pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Resume Badge"/>
-  </a>
-</div>
-
-I'm currently **available for work** and looking for exciting opportunities in front-end development. Let's build something amazing together!
-
----
-
-### 👩‍💻 About Me:
-I am an aspiring Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I'm a final year ECE undergraduate contributing to frontend development for building web applications.
-- 🌱 Exploring Web Development, particularly React, NextJs, and TypeScript.
-- ⚡ In my free time, I solve problems on GeeksforGeeks and LeetCode and read tech articles.
-- 🚀 Open to collaborate on interesting projects and opportunities.
-- 💼 Actively seeking internship and full-time positions in front-end development.
-
-📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:amisha.2125ec1132@kiet.edu)
-
----
-
-### 🛠️ Languages and Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity3D" alt="Unity3D" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 📊 My GitHub Stats:
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=amisha20223&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/amisha20223/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
-### 🚀 Current Projects:
-
-<div>
-  <details>
-    <summary><b>E-commerce Website</b></summary>
-    <p>A responsive e-commerce platform built with React and NextJS</p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/>
-  </details>
-  
-  <details>
-    <summary><b>Portfolio Website</b></summary>
-    <p>Personal portfolio showcasing my projects and skills</p>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  </details>
-</div>
-
----
-
-### 📫 Connect With Me:
-
-<div align="center">
-  <a href="mailto:amisharajput977@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amisha-singh-69a790230/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/amisha20223">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=onedark&row=1&column=6" alt="trophy"/>
-</div>
-
-<!-- ✅ Updated Daily Commit Activity Section -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=react-dark&area=true&hide_border=true&custom_title=Daily%20Commit%20Activity" alt="Daily Commit Activity" width="100%"/>
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=amisha20223&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=F75C7E&sideNums=38B2AC&sideLabels=F75C7E&currStreakNum=38B2AC&currStreakLabel=F75C7E" alt="GitHub Streak"/>
-  </a>
-</div>
+<!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
+React        5 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.1%
+CSS          2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
+JavaScript   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░    6.4%
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░    0.6%
