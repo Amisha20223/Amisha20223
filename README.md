@@ -1,8 +1,9 @@
 <div align="center">
-  <!-- Animated Name with Gradient and Glow Effect -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=✨+Amisha+Singh+✨;Full+Stack+Developer;ECE+Graduate" alt="Animated Name" />
+  <!-- Removed animated typing effect, using static name with gradient styling -->
+  <h1 style="background: linear-gradient(45deg, #00D9FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem; font-weight: bold; margin: 20px 0;">
+    ✨ Amisha Singh ✨
   </h1>
+  <h3 style="color: #00D9FF; margin-bottom: 20px;">Full Stack Developer | ECE Graduate</h3>
   
   <!-- Animated Badges -->
   <div>
@@ -31,7 +32,8 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- Replaced male programmer GIF with female programmer GIF -->
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 Recent **ECE graduate** with expertise in full-stack web development, specializing in modern JavaScript frameworks and backend technologies. Passionate about building scalable web applications and solving complex problems.
 
