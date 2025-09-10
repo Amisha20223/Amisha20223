@@ -1,11 +1,10 @@
 <div align="center">
-  <!-- Removed animated typing effect, using static name with gradient styling -->
+
   <h1 style="background: linear-gradient(45deg, #00D9FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem; font-weight: bold; margin: 20px 0;">
     ✨ Amisha Singh ✨
   </h1>
   <h3 style="color: #00D9FF; margin-bottom: 20px;">Full Stack Developer | ECE Graduate</h3>
   
-  <!-- Animated Badges -->
   <div>
     <img src="https://img.shields.io/badge/✨-Open%20To%20Work-0077B5?style=for-the-badge&logo=rocket&logoColor=white" alt="Open To Work"/>
     <img src="https://komarev.com/ghpvc/?username=amisha20223&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
@@ -85,27 +84,7 @@ Personal portfolio showcasing projects and technical skills
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <!-- Animated Snake eating contributions -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amisha20223/amisha20223/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amisha20223/amisha20223/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amisha20223/amisha20223/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://streak-stats.demolab.com/?user=amisha20223&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" width="400"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=github-compact&hide_border=true&title_color=00D9FF&color=ffffff&line=FF6B6B&point=00D9FF&area=true&area_color=00D9FF" alt="Activity Graph" width="90%"/>
-</div>
 
 ---
 
