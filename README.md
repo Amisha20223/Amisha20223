@@ -84,7 +84,23 @@ Personal portfolio showcasing projects and technical skills
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+  <!-- Animated Snake eating contributions -->
+ 
+</div>
 
+<div align="center" style="margin: 20px 0;">
+  <img src="https://streak-stats.demolab.com/?user=amisha20223&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" width="400"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=github-compact&hide_border=true&title_color=00D9FF&color=ffffff&line=FF6B6B&point=00D9FF&area=true&area_color=00D9FF" alt="Activity Graph" width="90%"/>
+</div>
 
 ---
 
