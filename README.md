@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/amisha-singh-69a790230/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
     </a>
-    <a href="mailto:amisha.2125ec1132@kiet.edu">
+    <a href="mailto:amishasingh1623@gmail.com">
       <img src="https://img.shields.io/badge/Email-1E90FF?style=flat-square&logo=gmail&logoColor=white&labelColor=1E90FF" alt="Email"/>
     </a>
     <a href="https://d8it4huxumps7.cloudfront.net/uploads/profileData/files/30889909/amisharajput977_67d15818117e3.pdf">
