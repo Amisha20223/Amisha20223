@@ -119,7 +119,7 @@ Personal portfolio showcasing projects and technical skills
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <a href="mailto:amisha.2125ec1132@kiet.edu">
+  <a href="mailto:amishasingh1623@gmail.com">
     <img src="https://img.shields.io/badge/📧-Email-1E90FF?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/amisha-singh-69a790230/">
