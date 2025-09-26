@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-<!-- Replaced male programmer GIF with female programmer GIF -->
+<!-- Female programmer GIF -->
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 Recent **ECE graduate** with expertise in full-stack web development, specializing in modern JavaScript frameworks and backend technologies. Passionate about building scalable web applications and solving complex problems.
@@ -85,18 +85,28 @@ Personal portfolio showcasing projects and technical skills
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Animated Snake eating contributions -->
- 
+  <!-- GitHub Streak Stats - Fixed version with proper parameters -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amisha20223&theme=dark&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&dates=FFFFFF&sideLabels=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&background=0D1117" alt="GitHub Streak Stats" height="165"/>
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://streak-stats.demolab.com/?user=amisha20223&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=dark&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="165"/>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amisha20223&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha20223&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%"/>
+<!-- Alternative Streak Stats Services (backup options) -->
+<!-- 
+If the above doesn't work, try these alternatives:
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=amisha20223&theme=dark&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 </div>
+
+OR
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amisha20223&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+-->
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amisha20223&theme=github-compact&hide_border=true&title_color=00D9FF&color=ffffff&line=FF6B6B&point=00D9FF&area=true&area_color=00D9FF" alt="Activity Graph" width="90%"/>
@@ -108,6 +118,19 @@ Personal portfolio showcasing projects and technical skills
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amisha20223&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amisha20223&theme=github_dark" alt="Profile Summary"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amisha20223&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amisha20223&theme=github_dark" alt="Productive Time"/>
 </div>
 
 ---
