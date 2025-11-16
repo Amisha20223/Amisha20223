@@ -3,7 +3,7 @@
   <h1 style="background: linear-gradient(45deg, #00D9FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem; font-weight: bold; margin: 20px 0;">
     ✨ Amisha Singh ✨
   </h1>
-  <h3 style="color: #00D9FF; margin-bottom: 20px;">Full Stack Developer | ECE Graduate</h3>
+  <h3 style="color: #00D9FF; margin-bottom: 20px;">SWE | ECE Graduate</h3>
   
   <div>
     <img src="https://img.shields.io/badge/✨-Open%20To%20Work-0077B5?style=for-the-badge&logo=rocket&logoColor=white" alt="Open To Work"/>
