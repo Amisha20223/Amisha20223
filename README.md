@@ -18,7 +18,7 @@
     <a href="mailto:amishasingh1623@gmail.com">
       <img src="https://img.shields.io/badge/Email-1E90FF?style=flat-square&logo=gmail&logoColor=white&labelColor=1E90FF" alt="Email"/>
     </a>
-    <a href="https://d8it4huxumps7.cloudfront.net/uploads/profileData/files/30889909/amisharajput977_67d15818117e3.pdf">
+    <a href="https://d8it4huxum7.cloudfront.net/uploads/profileData/files/30889909/amisharajput977_67d15818117e3.pdf">
       <img src="https://img.shields.io/badge/Resume-4682B4?style=flat-square&logo=document&logoColor=white&labelColor=4682B4" alt="Resume"/>
     </a>
     <a href="https://leetcode.com/u/amisha1823/">
